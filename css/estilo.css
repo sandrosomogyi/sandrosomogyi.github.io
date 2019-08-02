@@ -1,0 +1,35 @@
+header{
+    padding:150px 0 30px 0;
+    background: linear-gradient(90deg, #f5f2ed 0%, #9f9d99 100%);
+}
+
+footer{
+    padding: 20px 0;
+}
+
+.navbar-default{
+    background: linear-gradient(90deg, #f5f2ed 0%, #9f9d99 100%);
+}
+
+#course{
+    padding:80px 0;
+}
+
+.bg-dark {
+    background-color: #f5f2ed!important;
+}
+
+.btn-outline-info {
+    color: #eb9722;
+    border-color: #eb9722;
+}
+
+.btn-outline-info:hover{
+    color:#fff;
+    background-color:#eb9722;
+    border-color:#eb9722       
+}
+
+.center{
+    margin: auto;
+}
