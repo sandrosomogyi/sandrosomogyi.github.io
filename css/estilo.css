@@ -33,3 +33,17 @@ footer{
 .center{
     margin: auto;
 }
+
+.footer{
+    background: linear-gradient(90deg, #f5f2ed 0%, #9f9d99 100%);
+}
+
+.collapse{
+  justify-content:flex-end;
+}
+
+.btn-warning {
+    color: #fefeff;
+    background-color: #eb9722;
+    border-color: #eb9722;
+}
